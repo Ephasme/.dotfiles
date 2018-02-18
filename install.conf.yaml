@@ -1,10 +1,7 @@
 - clean: ['~']
 
 - link:
-    ~/.profile: profile
-    ~/.bashrc: bashrc
-    ~/.bash_logout: bash_logout
     ~/.zshrc: zshrc
-    ~/.antigen: antigen/antigen.zsh
+    ~/.antigen.zsh: antigen/antigen.zsh
 
 
