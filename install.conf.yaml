@@ -1,6 +1,7 @@
 - clean: ['~']
 
 - link:
+    ~/.liquidprompt: liquidprompt/liquidprompt
     ~/.z.sh: z/z.sh
     ~/.zshrc: zshrc
     ~/.antigen.zsh: antigen/antigen.zsh

@@ -21,4 +21,8 @@ antigen theme agnoster
 # # Tell Antigen that you're done.
 antigen apply
 
-. ./.z.sh
+# Loads z jump around
+. ~/.z.sh
+
+# Loads liquidprompt
+[[ $- = *i* ]] && source ~/.liquidprompt
