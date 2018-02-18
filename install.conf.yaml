@@ -1,6 +1,7 @@
 - clean: ['~']
 
 - link:
+    ~/.z.sh: z/z.sh
     ~/.zshrc: zshrc
     ~/.antigen.zsh: antigen/antigen.zsh
 
